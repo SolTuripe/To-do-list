@@ -2,11 +2,12 @@
 
 This project is about a very simple To Do List.
 
-## Build with 
+## Build with
 
-* HTML
-* Css
-* Javascript
+- HTML
+- Css
+- Javascript
 
 ## Acknowledgment
+
 Thanks to @thisisariann and @belcar-ceci for practicing with me 🌻
